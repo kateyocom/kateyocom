@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 
 
+
+  <img src="imagies/jmuscom.webp" alt="System diagram" width="300">
+
