@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I played soccer for 19 years 
 -->
 
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
