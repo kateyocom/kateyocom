@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Github Project
-- 🌱 I’m currently learning Public Relations 
-- 👯 I’m looking to collaborate on Social Media Marketing
-- 🤔 I’m looking for help with Technology Usage 
-- 💬 Ask me about Career Goals 
+- 🔭 I’m currently working on building my Social Media and Marketing platforms 
+- 🌱 I’m currently learning how to use different technology platforms 
+- 👯 I’m looking to collaborate on Social Media Marketing 
+- 🤔 I’m looking for help with learning how to use different technology platforms 
+- 💬 Ask me about my Social Media and Marketing Internship with Course Couture 
 - 📫 How to reach me: kateyocom@icloud.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I played soccer for 19 years 
+- ⚡ Fun fact: I played soccer for 19 years and am always looking to be outside
 
 
 
